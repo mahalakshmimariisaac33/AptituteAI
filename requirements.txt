@@ -1,0 +1,8 @@
+streamlit==1.31.0
+pandas==2.2.0
+numpy==1.26.3
+
+# Optional heavy dependencies (only load when needed)
+# ollama==0.1.7
+# faiss-cpu==1.13.0  
+# sentence-transformers==2.3.1
